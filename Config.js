@@ -16,16 +16,16 @@ global.APIKeys = {
 global.emoji01 = ['🐼'] // 👈 Enter your Emoji 
 global.emoji02 = ['🦋'] //👈 Enter your Emoji
 global.notice = ` *Hi 🥰 I m*
-*ＮＯＩＺ Ξ*
+*➧Dinethـــہہـ♡ــہــ꧂*
 *I am 16 years old developer...*
 *From Sri Lanka 🇱🇰*
 *I am a Learning.*
 *Not more..*
 *Also I am Student*
 *Follow My Facebook - https://www.facebook.com/zenoixnoize*`  // 👈 Enter Your details and Social Media Links and Anything
-global.owner =  ['+94711502119'] //👈  Enter Your number
-global.premium =  ['+94711502119'] //👈  Enter Your number
-global.ownernomer = '+94711502119' //👈  Enter Your number
+global.owner =  ['+94775473247'] //👈  Enter Your number
+global.premium =  ['+94775473247'] //👈  Enter Your number
+global.ownernomer = '+94775473247' //👈  Enter Your number
 global.ownername = 'ZENOI' //👈 Enter Your name
 global.botname = 'ＧＡＲＦＩＥＬＤ ＢＯＴ' //👈 Enter Your Bot name
 global.footer = '© 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖡𝗒 𝖦𝖺𝗋𝖿𝗂𝖾𝗅𝖽 𝖡𝗈𝗍' //👈 Enter Your Name
@@ -43,7 +43,7 @@ global.thumb =  'https://i.ibb.co/Jz0mMnC/Pics-Art-22-06-03-01-01-46-876.png'
 //Go to https://imgbb.com/, upload a photo of your choice and put its link here
 global.sp = '⭔'
 global.mess = {
-    success: 'Done 🦋', // 👈 You Can change this your choice
+    success: 'Done 🌹', // 👈 You Can change this your choice
     admin: 'This Feature Is Only For Admin!', // 👈 You Can change this your choice
     botAdmin: 'Bot Must Be Admin First!', // 👈 You Can change this your choice
     owner: 'This Feature Is Only For Owner!', // 👈 You Can change this your choice
